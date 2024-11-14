@@ -16,10 +16,6 @@ if __name__ == "__main__":
     y = 0
     result = divide_numbers(x, y)
     print(f"The result of division is: {result}")
-    
-    x = 5
-    y = 5
-    result = divide_numbers(x, y)
-    print(f"The result of division is: {result}")
+
     result = add_numbers(x, y)
     print(f"The result of addition is: {result}")
